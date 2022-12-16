@@ -1,0 +1,23 @@
+body{
+
+    background-color: #EAF6F6;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    color: #40514E;
+
+}
+
+h5{
+    margin: 0;
+    font-size: 36px;
+}
+
+.message{
+    text-align: left;
+}
+
+
+.ull{
+    display: inline-block;
+    text-align: left;
+}
